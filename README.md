@@ -1,2 +1,2 @@
-# MyBertModel
+# MyCLIPModel
 This is my graduation project
